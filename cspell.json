@@ -1,0 +1,17 @@
+{
+  "version": "0.2",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [
+    "flowgram.ai",
+    "rspress",
+    "douyinfe",
+    "Sandpack",
+    "codesandbox",
+    "rspack",
+    "rsbuild"
+  ],
+  "ignoreWords": [],
+  "import": []
+}
